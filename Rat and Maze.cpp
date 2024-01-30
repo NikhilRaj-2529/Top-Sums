@@ -1,3 +1,4 @@
+// Only For Right and Down
 #include <bits/stdc++.h>
 using namespace std;
 const int n=4;
